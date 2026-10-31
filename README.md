@@ -1,2 +1,9 @@
-# attieke-drome-saran-kaba-mockup
-Complimentary mobile-first landing page mockup for Restaurant Attieke Drome de Saran Kaba by Al-Falah Marketing. Review only.
+# Restaurant Attieke Drome de Saran Kaba — Landing Page Mockup
+
+Complimentary mockup by Al-Falah Marketing. Review only — not live.
+
+## Public details
+- Attiéké specialist, Fidel Castro Autoroute, Conakry
+- Phone: +224 620 96 04 04
+- Email: mamadik891@gmail.com
+- Facebook only; no owned website found.
